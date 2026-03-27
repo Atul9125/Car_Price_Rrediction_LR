@@ -6,6 +6,3 @@ seaborn
 streamlit
 joblib
 app1.py
-requirements.txt
-lasso_model.pkl
-scaler.pkl
