@@ -3,6 +3,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-streamlit
+requirements.txt
 joblib
 app1.py
